@@ -1,15 +1,125 @@
-h3 {
-	color: black;
+.debut {
+  float:right;
+  font-family: Arial, sans-serif; 
+  color: #000;
+  text-decoration: none;
+  margin-top: 10px;
+  margin-left: 25px;
+  padding: 20px 20px
+  font-size: 20px;
+  word-spacing: 10px;
 }
 
-p {
 
-	margin:40px auto;
-	max-width:650px;
-	line-height:1.6;
-	font-size:18px;
-	color: red;
-	padding:0 10px
+.bouton1 {
+  background-color: dodgerblue;
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.bouton {
+  text-decoration: none;
+  background-color: white;
+  color: dimgray;
+  padding: 10px 10px
+  text-decoration: none;
+}
+
+.Google {
+  margin-top: 140px;
+  margin-left: 480px;
+  margin-right: 300px;
+}
+
+.G {
+  color: dodgerblue;
+  font-size: 136px;
+
+}
+
+.o1 {
+  color: crimson;
+  font-size: 98px;
+}
+
+.o {
+  color: gold;
+  font-size: 98px;
+}
+
+.g {
+  color: dodgerblue;
+  font-size: 98px;
+}
+
+.l {
+  color: #3CB371;
+  font-size: 98px;
+}
+
+.e {
+  color: crimson;
+  font-size: 98px;
+}
+
+.Lucky {
+  text-decoration: none;
+  color: gray;
+  background-color: ghostwhite;
+  padding: 15px 20px;
+  position: relative;
+  left: 480px;
+  border: 1px ghostwhite solid;
+}
+
+.Search {
+  text-decoration: none;
+  color: gray;
+  background-color: ghostwhite;
+  padding: 15px 20px;
+  position: relative;
+  left: 475px;
+  border: 1px ghostwhite solid;
 }
 
 
+.Recherche {
+  background-color: white;
+  color: white;
+  text-decoration: none;
+  color-border: black;
+  padding: 15px 25px;
+  margin: auto;
+  position: relative;
+  border: 1px black solid;
+  left: 30px;
+  width: 500px;
+-webkit-box-shadow: 10px 9px 7px -6px rgba(163,160,163,1);
+-moz-box-shadow: 10px 9px 7px -6px rgba(163,160,163,1);
+box-shadow: 10px 9px 7px -6px rgba(163,160,163,1);
+}
+
+
+.footer {
+  text-decoration: none;
+  color-border: gray;
+  border: 2px gray solid;
+  padding: 20px 15px;
+  position: relative;
+    background-color: #A9A9A9; 
+}
+
+.bouton3 {
+  float: left;
+  color: black;
+  text-decoration: none;
+  margin-left: 10px; 
+}
+
+.bouton4 {
+  float: right;
+  color: black;
+  text-decoration: none;
+margin-left: 10px; 
+}
